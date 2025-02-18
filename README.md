@@ -20,7 +20,7 @@ This project is a simple 3D model of a campus with buildings, grass, and roads, 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Endritx/Computer-Graphics-.git
+   git clone https://github.com/Endritx/3D-Campus-Model.git
    ```
 
 2. **Navigate to the project folder**:
